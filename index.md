@@ -1,4 +1,4 @@
 # Welcome
 Work in progress...
 ## Teaching Resources
-* [VHDL & GHDL Course Guide](./vhdl_guide/)
+* [GHDL installation guide](./vhdl_guide/)
