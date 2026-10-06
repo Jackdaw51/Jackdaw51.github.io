@@ -10,16 +10,18 @@ When running testbenches you may want to look at the resulting waveform, i.e. th
 ## How to install ghdl
 ### Windows
 Go to the official [releases page](https://github.com/ghdl/ghdl/releases/tag/v6.0.0).
-As of today, version 6.0.0 is the latest-stable version. Download the standalone, `mccode` standalone. Unzip it in a known folder, say `C:\ghdl`. For confirmation check that `ghdl.exe` is present in `C:\ghdl\bin`. Then add it to the ENVIRONMENT varaibles. 
+As of today, version 6.0.0 is the latest-stable version. Download the `mccode` standalone. Unzip it in a known folder, say `C:\ghdl`. For confirmation check that `ghdl.exe` is present in `C:\ghdl\bin`. Then add it to the ENVIRONMENT varaibles. 
 Restart your terminal if you had it open and check installation using `ghdl --version`. 
 ### Linux
 #### Ubuntu / Debian
 `sudo apt update && sudo apt install ghdl`.
+
 Then verify using `ghdl --version`.
 #### Arch
 I'm pretty sure you don't need this guide
 ### Mac
 `brew install ghdl`
+
 Then verify using `ghdl --version`.
 > I have never used any macOS machine; if there are any problems refer to the mail above.
 
