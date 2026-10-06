@@ -49,7 +49,7 @@ ghdl -r my_tb --vcd=my_chosen_name.vcd
 ```
 At this point GHDL should generate the waveform.
 You can click on it and view it on the editor. VScode will prompt you to download an extension to view it.
-If that doesn't happen you can download a very common one called WaveTrace.
+If that doesn't happen you can download a very common one called [WaveTrace](https://marketplace.visualstudio.com/items?itemName=wavetrace.wavetrace).
 
 ---
 
